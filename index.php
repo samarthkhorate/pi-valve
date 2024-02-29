@@ -42,7 +42,7 @@
     <input type="checkbox" id="nav-check">
     <div class="nav-header">
       <div class="nav-title">
-        <img src="assets/img/logo/since.png" alt="Phadtare Industries" class="custom-image">
+        <img src="assets/img/logo/pilogo.png" alt="Phadtare Industries" class="custom-image">
 
 <style>
   /* Styles for the custom class */
