@@ -195,7 +195,7 @@ We prioritize client satisfaction by delivering high-quality products that meet 
               </div>
               <div class="row">
                       <!-- Single Product -->
-                      <div class="col-md-6 col-lg-4 col-xl-3">
+                      <!-- <div class="col-md-6 col-lg-4 col-xl-3">
                               <div id="product-1" class="single-product">
                                       <a href="pr1.php"><div class="part-1">
                                               
@@ -203,6 +203,20 @@ We prioritize client satisfaction by delivering high-quality products that meet 
                                       <div class="part-2">
                                         <a href="pr1.php">
                                           <h1 class="product-title" style="font-size: 30px;">Quick Release Coupling</h1>
+                                        </a>
+                                      </div>
+                              </div>
+                      </div> -->
+
+                      <div class="col-md-6 col-lg-4 col-xl-3">
+                              <div id="product-6" class="single-product">
+                                      <a href="pr6.php"><div class="part-1">
+                                              
+                                              
+                                      </div></a>
+                                      <div class="part-2">
+                                        <a href="pr6.php">
+                                          <h1 class="product-title" style="font-size: 30px;">Tube Fittings</h1>
                                         </a>
                                       </div>
                               </div>
