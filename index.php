@@ -197,11 +197,11 @@ We prioritize client satisfaction by delivering high-quality products that meet 
                       <!-- Single Product -->
                       <div class="col-md-6 col-lg-4 col-xl-3">
                               <div id="product-1" class="single-product">
-                                      <a href="pr1.html"><div class="part-1">
+                                      <a href="pr1.php"><div class="part-1">
                                               
                                       </div></a>
                                       <div class="part-2">
-                                        <a href="pr1.html">
+                                        <a href="pr1.php">
                                           <h1 class="product-title" style="font-size: 30px;">Quick Release Coupling</h1>
                                         </a>
                                       </div>
@@ -210,12 +210,12 @@ We prioritize client satisfaction by delivering high-quality products that meet 
                       <!-- Single Product -->
                       <div class="col-md-6 col-lg-4 col-xl-3">
                               <div id="product-2" class="single-product">
-                                      <a href="pr2.html"><div class="part-1">
+                                      <a href="pr2.php"><div class="part-1">
                                               
                                               
                                       </div></a>
                                       <div class="part-2">
-                                        <a href="pr2.html">
+                                        <a href="pr2.php">
                                           <h1 class="product-title" style="font-size: 30px;">Needle Valve</h1>
                                         </a>
                                       </div>
@@ -224,11 +224,11 @@ We prioritize client satisfaction by delivering high-quality products that meet 
                       <!-- Single Product -->
                       <div class="col-md-6 col-lg-4 col-xl-3">
                               <div id="product-3" class="single-product">
-                                      <a href="pr3.html"><div class="part-1">
+                                      <a href="pr3.php"><div class="part-1">
                                               
                                       </div></a>
                                       <div class="part-2">
-                                        <a href="pr3.html">
+                                        <a href="pr3.php">
                                           <h1 class="product-title" style="font-size: 30px;">Fitting</h1>
                                         </a>
                                       </div>
@@ -237,12 +237,12 @@ We prioritize client satisfaction by delivering high-quality products that meet 
                       <!-- Single Product -->
                       <div class="col-md-6 col-lg-4 col-xl-3">
                               <div id="product-4" class="single-product">
-                                      <a href="pr4.html"><div class="part-1">
+                                      <a href="pr4.php"><div class="part-1">
                                               
                                               
                                       </div></a>
                                       <div class="part-2">
-                                        <a href="pr4.html">
+                                        <a href="pr4.php">
                                           <h1 class="product-title" style="font-size: 30px;">Gauge Cock</h1>
                                         </a>
                                       </div>
@@ -251,11 +251,11 @@ We prioritize client satisfaction by delivering high-quality products that meet 
                       <!-- Single Product -->
                       <div class="col-md-6 col-lg-4 col-xl-3">
                               <div id="product-5" class="single-product">
-                                      <a href="pr5.html"><div class="part-1">
+                                      <a href="pr5.php"><div class="part-1">
                                               
                                       </div></a>
                                       <div class="part-2">
-                                        <a href="pr5.html">
+                                        <a href="pr5.php">
                                           <h1 class="product-title" style="font-size: 30px;">Daiphragm Valve</h1>
                                         </a>
                                       </div>
@@ -264,12 +264,12 @@ We prioritize client satisfaction by delivering high-quality products that meet 
                       <!-- Single Product -->
                       <div class="col-md-6 col-lg-4 col-xl-3">
                               <div id="product-6" class="single-product">
-                                      <a href="pr6.html"><div class="part-1">
+                                      <a href="pr6.php"><div class="part-1">
                                               
                                               
                                       </div></a>
                                       <div class="part-2">
-                                        <a href="pr6.html">
+                                        <a href="pr6.php">
                                           <h1 class="product-title" style="font-size: 30px;">Tube Fittings</h1>
                                         </a>
                                       </div>
@@ -278,11 +278,11 @@ We prioritize client satisfaction by delivering high-quality products that meet 
                       <!-- Single Product -->
                       <div class="col-md-6 col-lg-4 col-xl-3">
                               <div id="product-7" class="single-product">
-                                      <a href="pr7.html"><div class="part-1">
+                                      <a href="pr7.php"><div class="part-1">
                                               
                                       </div></a>
                                       <div class="part-2">
-                                        <a href="pr7.html">
+                                        <a href="pr7.php">
                                           <h1 class="product-title" style="font-size: 30px;">RB Needle Valve</h1>
                                         </a>
                                       </div>
@@ -291,10 +291,10 @@ We prioritize client satisfaction by delivering high-quality products that meet 
                       <!-- Single Product -->
                       <div class="col-md-6 col-lg-4 col-xl-3">
                               <div id="product-8" class="single-product">
-                                      <a href="pr8.html"><div class="part-1">     
+                                      <a href="pr8.php"><div class="part-1">     
                                       </div></a>
                                       <div class="part-2">
-                                        <a href="pr8.html">
+                                        <a href="pr8.php">
                                           <h1 class="product-title" style="font-size: 30px;">Ball Valve</h1>
                                         </a>
                                       </div>
@@ -303,10 +303,10 @@ We prioritize client satisfaction by delivering high-quality products that meet 
       </div>
       <div class="col-md-6 col-lg-4 col-xl-3">
       <div id="product-9" class="single-product">
-              <a href="pr9.html"><div class="part-1">     
+              <a href="pr9.php"><div class="part-1">     
               </div></a>
               <div class="part-2">
-                <a href="pr9.html">
+                <a href="pr9.php">
                   <h1 class="product-title" style="font-size: 30px;">Valve Manifold</h1>
                 </a>
               </div>
@@ -315,10 +315,10 @@ We prioritize client satisfaction by delivering high-quality products that meet 
 </div>
 <div class="col-md-6 col-lg-4 col-xl-3">
                               <div id="product-10" class="single-product">
-                                      <a href="pr10.html"><div class="part-1">     
+                                      <a href="pr10.php"><div class="part-1">     
                                       </div></a>
                                       <div class="part-2">
-                                        <a href="pr10.html">
+                                        <a href="pr10.php">
                                           <h1 class="product-title" style="font-size: 30px;">Camlock Coupling</h1>
                                         </a>
                                       </div>
@@ -328,13 +328,13 @@ We prioritize client satisfaction by delivering high-quality products that meet 
 
        <!-- Single Product -->
        <div class="col-md-6 col-lg-4 col-xl-3">
-        <div id="product-2" class="single-product">
-                <a href="pr11.html"><div class="part-1">
+        <div id="product-11" class="single-product">
+                <a href="pr11.php"><div class="part-1">
                         
                         
                 </div></a>
                 <div class="part-2">
-                  <a href="pr11.html">
+                  <a href="pr11.php">
                     <h1 class="product-title" style="font-size: 30px;">Lavle Valve</h1>
                   </a>
                 </div>
@@ -343,13 +343,13 @@ We prioritize client satisfaction by delivering high-quality products that meet 
 
  <!-- Single Product -->
  <div class="col-md-6 col-lg-4 col-xl-3">
-  <div id="product-2" class="single-product">
-          <a href="pr12.html"><div class="part-1">
+  <div id="product-12" class="single-product">
+          <a href="pr12.php"><div class="part-1">
                   
                   
           </div></a>
           <div class="part-2">
-            <a href="pr12.html">
+            <a href="pr12.php">
               <h1 class="product-title" style="font-size: 30px;">PTFE Qrc</h1>
             </a>
           </div>
@@ -458,6 +458,14 @@ We prioritize client satisfaction by delivering high-quality products that meet 
       }
       .section-products #product-10 .part-1::before {
           background: url("assets/img/gallery/pr10.jpg") no-repeat center;
+          background-size: cover;
+      }
+      .section-products #product-11 .part-1::before {
+          background: url("assets/img/gallery/pr11.jpg") no-repeat center;
+          background-size: cover;
+      }
+      .section-products #product-12 .part-1::before {
+          background: url("assets/img/gallery/pr12.jpg") no-repeat center;
           background-size: cover;
       }
       
@@ -1103,29 +1111,114 @@ h2 {
       </div>
       <br />
       <div class="col-md-6">
-          <form class="my-form">
+           <form class="my-form" action="#" method="post">
               <div class="form-group">
-                  <label for="form-name" style="font-size:20px">Name</label>
-                  <input type="email" class="form-control" id="form-name" placeholder="Name">
+                  <label for="form-name">Name</label>
+                  <input type="text" class="form-control" id="form-name" name="a1" placeholder="Name" required>
               </div>
               <div class="form-group">
-                  <label for="form-email"style="font-size:20px">Email Address</label>
-                  <input type="email" class="form-control" id="form-email" placeholder="Email Address">
+                  <label for="form-email">Email Address</label>
+                  <input type="email" class="form-control" id="form-email" name="a2" placeholder="Email Address" required>
               </div>
               <div class="form-group">
-                  <label for="form-subject"style="font-size:20px">Phone Numbers</label>
-                  <input type="text" class="form-control" id="form-subject" placeholder="Phone Number">
+                  <label for="form-subject">Phone Numbers</label>
+                  <input type="number" class="form-control" id="form-subject" name="a3" placeholder="Phone Number" required>
               </div>
               <div class="form-group">
-                  <label for="form-message"style="font-size:20px">Email your Message</label>
-                  <textarea class="form-control" id="form-message" placeholder="Message"></textarea>
+                  <label for="form-message">Email your Message</label>
+                  <textarea class="form-control" id="form-message" name="a4" placeholder="Message" required></textarea>
               </div>
-              <button class="btn btn-secondary"style="font-size:20px" type="submit">Contact Us</button>                
+              <button class="btn btn-secondary" type="submit" name="btn_submit">Contact Us</button>                
           </form>
       </div>
   </div>
 </div>
+<?php
 
+if(isset($_POST['btn_submit'])){
+
+  $servername = "65.109.122.227";
+$username = "pivalvei_user";
+$password = "Soham@#$11223355";
+$database = "pivalvei_db";
+
+// Create connection
+$con = new mysqli($servername, $username, $password, $database);
+date_default_timezone_set('Asia/Kolkata');
+
+// Get current timestamp in the specified format
+$current_timestamp = date('d-m-Y h:i:s A');
+
+
+  echo '<pre>';
+  print_r($_POST);
+  echo '</pre>';
+  extract($_POST);
+  $sql = "INSERT INTO `tbl_contact` (`id`, `name`, `email_id`, `mob_no`, `msg`, `time_stamp`) VALUES (NULL, '$a1', '$a2', '$a3', '$a4', '$current_timestamp')";
+  if(mysqli_query($con,$sql)){
+//email start 
+
+
+
+try{
+require 'PHPMailer/src/Exception.php';
+require 'PHPMailer/src/PHPMailer.php';
+require 'PHPMailer/src/SMTP.php';
+
+// Create PHPMailer instance
+$mail = new PHPMailer\PHPMailer\PHPMailer();
+ //Server settings
+//    $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      //Enable verbose debug output
+    $mail->isSMTP();                                            //Send using SMTP
+    $mail->Host       = 'smtp.gmail.com';                     //Set the SMTP server to send through
+    $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
+    $mail->Username   = 'system.techking@gmail.com';                     //SMTP username
+    $mail->Password   = 'wdpiyszleioausbk';                               //SMTP password
+  //  $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
+    $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
+   
+   
+    // Suppress debugging information
+    $mail->SMTPDebug = 0;
+    $mail->Debugoutput = 'html';
+   
+   
+    //Recipients
+    $mail->setFrom('system.techking@gmail.com', 'Tech King Solutions India');
+    $mail->addAddress($a2,$a1);     //Add a recipient
+    //$mail->addAddress('info@techking.in.net', 'Tech King Solutions India');     //Add a recipient
+    //$mail->addAddress('ellen@example.com');               //Name is optional
+    $mail->addReplyTo('info@techking.in.net', 'Tech King Solutions India');
+   // $mail->addCC('abhijit.abhang.abhang@gmail.com');
+    //$mail->addBCC('bcc@example.com');
+//$path_cert='../../img/digital_certificate/'.$digital_certificate_file_name;
+    //Attachments
+   // $mail->addAttachment($path_cert);         //Add attachments
+  //  $mail->addAttachment('../img/trainee_profile_pic/6546be678af80.png');    //Optional name
+
+    //Content
+    $mail->isHTML(true);                                  //Set email format to HTML
+    
+    $mail->Subject = 'Test Email';
+$mail->Body = "This is a test email sent using PHPMailer.\n";
+$mail->Body .= "Name: $a1\nEmail: $a2\nPhone No: $a3\nSender's Email: $a4";
+   // $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
+
+    $mail->send();
+       echo 'Email sent successfully!';
+
+    }catch (Exception $e) {
+    echo 'Error sending email: ', $mail->ErrorInfo;
+}
+
+    //email ends
+
+  }else{
+    echo "data sent fail";
+  }
+}
+
+?>
 <style>
   .my-form {
       color: #305896;
@@ -1154,7 +1247,7 @@ h2 {
         <div class="row gx-5">
             <div class="col-lg-4 col-md-6 footer-about">
                 <div class="d-flex flex-column align-items-center justify-content-center text-center h-100 bg-primary p-4">
-                    <a href="index.html" class="navbar-brand">
+                    <a href="index.php" class="navbar-brand">
                         <h1 class="m-0 text-white"><i class="fa fa-user-tie me-2"></i>Phadtare Industries</h1>
                     </a>
                     <p class="mt-3 mb-4"><h2 style="color: black;">WHO WE ARE</h2>

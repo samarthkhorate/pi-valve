@@ -197,11 +197,11 @@ We prioritize client satisfaction by delivering high-quality products that meet 
                       <!-- Single Product -->
                       <div class="col-md-6 col-lg-4 col-xl-3">
                               <div id="product-1" class="single-product">
-                                      <a href="pr1.html"><div class="part-1">
+                                      <a href="pr1.php"><div class="part-1">
                                               
                                       </div></a>
                                       <div class="part-2">
-                                        <a href="pr1.html">
+                                        <a href="pr1.php">
                                           <h1 class="product-title" style="font-size: 30px;">Quick Release Coupling</h1>
                                         </a>
                                       </div>
@@ -210,12 +210,12 @@ We prioritize client satisfaction by delivering high-quality products that meet 
                       <!-- Single Product -->
                       <div class="col-md-6 col-lg-4 col-xl-3">
                               <div id="product-2" class="single-product">
-                                      <a href="pr2.html"><div class="part-1">
+                                      <a href="pr2.php"><div class="part-1">
                                               
                                               
                                       </div></a>
                                       <div class="part-2">
-                                        <a href="pr2.html">
+                                        <a href="pr2.php">
                                           <h1 class="product-title" style="font-size: 30px;">Needle Valve</h1>
                                         </a>
                                       </div>
@@ -224,11 +224,11 @@ We prioritize client satisfaction by delivering high-quality products that meet 
                       <!-- Single Product -->
                       <div class="col-md-6 col-lg-4 col-xl-3">
                               <div id="product-3" class="single-product">
-                                      <a href="pr3.html"><div class="part-1">
+                                      <a href="pr3.php"><div class="part-1">
                                               
                                       </div></a>
                                       <div class="part-2">
-                                        <a href="pr3.html">
+                                        <a href="pr3.php">
                                           <h1 class="product-title" style="font-size: 30px;">Fitting</h1>
                                         </a>
                                       </div>
@@ -237,12 +237,12 @@ We prioritize client satisfaction by delivering high-quality products that meet 
                       <!-- Single Product -->
                       <div class="col-md-6 col-lg-4 col-xl-3">
                               <div id="product-4" class="single-product">
-                                      <a href="pr4.html"><div class="part-1">
+                                      <a href="pr4.php"><div class="part-1">
                                               
                                               
                                       </div></a>
                                       <div class="part-2">
-                                        <a href="pr4.html">
+                                        <a href="pr4.php">
                                           <h1 class="product-title" style="font-size: 30px;">Gauge Cock</h1>
                                         </a>
                                       </div>
@@ -251,11 +251,11 @@ We prioritize client satisfaction by delivering high-quality products that meet 
                       <!-- Single Product -->
                       <div class="col-md-6 col-lg-4 col-xl-3">
                               <div id="product-5" class="single-product">
-                                      <a href="pr5.html"><div class="part-1">
+                                      <a href="pr5.php"><div class="part-1">
                                               
                                       </div></a>
                                       <div class="part-2">
-                                        <a href="pr5.html">
+                                        <a href="pr5.php">
                                           <h1 class="product-title" style="font-size: 30px;">Daiphragm Valve</h1>
                                         </a>
                                       </div>
@@ -264,12 +264,12 @@ We prioritize client satisfaction by delivering high-quality products that meet 
                       <!-- Single Product -->
                       <div class="col-md-6 col-lg-4 col-xl-3">
                               <div id="product-6" class="single-product">
-                                      <a href="pr6.html"><div class="part-1">
+                                      <a href="pr6.php"><div class="part-1">
                                               
                                               
                                       </div></a>
                                       <div class="part-2">
-                                        <a href="pr6.html">
+                                        <a href="pr6.php">
                                           <h1 class="product-title" style="font-size: 30px;">Tube Fittings</h1>
                                         </a>
                                       </div>
@@ -278,11 +278,11 @@ We prioritize client satisfaction by delivering high-quality products that meet 
                       <!-- Single Product -->
                       <div class="col-md-6 col-lg-4 col-xl-3">
                               <div id="product-7" class="single-product">
-                                      <a href="pr7.html"><div class="part-1">
+                                      <a href="pr7.php"><div class="part-1">
                                               
                                       </div></a>
                                       <div class="part-2">
-                                        <a href="pr7.html">
+                                        <a href="pr7.php">
                                           <h1 class="product-title" style="font-size: 30px;">RB Needle Valve</h1>
                                         </a>
                                       </div>
@@ -291,10 +291,10 @@ We prioritize client satisfaction by delivering high-quality products that meet 
                       <!-- Single Product -->
                       <div class="col-md-6 col-lg-4 col-xl-3">
                               <div id="product-8" class="single-product">
-                                      <a href="pr8.html"><div class="part-1">     
+                                      <a href="pr8.php"><div class="part-1">     
                                       </div></a>
                                       <div class="part-2">
-                                        <a href="pr8.html">
+                                        <a href="pr8.php">
                                           <h1 class="product-title" style="font-size: 30px;">Ball Valve</h1>
                                         </a>
                                       </div>
@@ -303,10 +303,10 @@ We prioritize client satisfaction by delivering high-quality products that meet 
       </div>
       <div class="col-md-6 col-lg-4 col-xl-3">
       <div id="product-9" class="single-product">
-              <a href="pr9.html"><div class="part-1">     
+              <a href="pr9.php"><div class="part-1">     
               </div></a>
               <div class="part-2">
-                <a href="pr9.html">
+                <a href="pr9.php">
                   <h1 class="product-title" style="font-size: 30px;">Valve Manifold</h1>
                 </a>
               </div>
@@ -315,10 +315,10 @@ We prioritize client satisfaction by delivering high-quality products that meet 
 </div>
 <div class="col-md-6 col-lg-4 col-xl-3">
                               <div id="product-10" class="single-product">
-                                      <a href="pr10.html"><div class="part-1">     
+                                      <a href="pr10.php"><div class="part-1">     
                                       </div></a>
                                       <div class="part-2">
-                                        <a href="pr10.html">
+                                        <a href="pr10.php">
                                           <h1 class="product-title" style="font-size: 30px;">Camlock Coupling</h1>
                                         </a>
                                       </div>
@@ -329,12 +329,12 @@ We prioritize client satisfaction by delivering high-quality products that meet 
        <!-- Single Product -->
        <div class="col-md-6 col-lg-4 col-xl-3">
         <div id="product-2" class="single-product">
-                <a href="pr11.html"><div class="part-1">
+                <a href="pr11.php"><div class="part-1">
                         
                         
                 </div></a>
                 <div class="part-2">
-                  <a href="pr11.html">
+                  <a href="pr11.php">
                     <h1 class="product-title" style="font-size: 30px;">Lavle Valve</h1>
                   </a>
                 </div>
@@ -344,12 +344,12 @@ We prioritize client satisfaction by delivering high-quality products that meet 
  <!-- Single Product -->
  <div class="col-md-6 col-lg-4 col-xl-3">
   <div id="product-2" class="single-product">
-          <a href="pr12.html"><div class="part-1">
+          <a href="pr12.php"><div class="part-1">
                   
                   
           </div></a>
           <div class="part-2">
-            <a href="pr12.html">
+            <a href="pr12.php">
               <h1 class="product-title" style="font-size: 30px;">PTFE Qrc</h1>
             </a>
           </div>
@@ -1154,7 +1154,7 @@ h2 {
         <div class="row gx-5">
             <div class="col-lg-4 col-md-6 footer-about">
                 <div class="d-flex flex-column align-items-center justify-content-center text-center h-100 bg-primary p-4">
-                    <a href="index.html" class="navbar-brand">
+                    <a href="index.php" class="navbar-brand">
                         <h1 class="m-0 text-white"><i class="fa fa-user-tie me-2"></i>Phadtare Industries</h1>
                     </a>
                     <p class="mt-3 mb-4"><h2 style="color: black;">WHO WE ARE</h2>
