@@ -417,7 +417,7 @@ We prioritize client satisfaction by delivering high-quality products that meet 
       }
       
       .section-products #product-1 .part-1::before {
-          background: url("assets/img/gallery/pr1.jpg") no-repeat center;
+          background: url("/assets/img/gallery/pr1.jpg") no-repeat center;
           background-size: cover;
               transition: all 0.3s;
       }  
