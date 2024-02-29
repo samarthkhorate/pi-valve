@@ -72,7 +72,7 @@
     </div>
     
     <div class="nav-links" style="padding-left: 35%; padding-top: 1%;">
-      <a href="#About">As</a>
+      <a href="#About">About</a>
       <a href="#Profile">Profile</a>
       <a href="#Products">Products</a>
       <a href="#Reachus">Contact</a>
