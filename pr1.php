@@ -44,7 +44,7 @@
   <div class="container">
     <div class="product-container">
       <h1 class="product-title" style="font-size: 2rem;">Quick Release Coupling</h1>
-      <img src="assets/img/gallery/pr6.jpg" alt="Product Image" class="product-image" style="width: 60%; height: auto;">
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fanimal%2Fdog&psig=AOvVaw3MePWbmpDwU3sRPYb04gPj&ust=1709315877759000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjZlYCQ0YQDFQAAAAAdAAAAABAI" alt="Product Image" class="product-image" style="width: 60%; height: auto;">
       
       <p class="product-description" style="align-self: baseline;">
         
