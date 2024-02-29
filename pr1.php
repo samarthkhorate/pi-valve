@@ -43,7 +43,7 @@
 
   <div class="container">
     <div class="product-container">
-      <h1 class="product-title" style="font-size: 2rem;">Quick Release  </h1>
+      <h1 class="product-title" style="font-size: 2rem;">Quick Release Coupling</h1>
       <img src="assets/img/gallery/pr1.jpg" alt="Product Image" class="product-image" style="width: 80%; height: auto;border: 10px solid transparent;"border: 5px solid #555;>
       
       <p class="product-description" style="align-self: baseline;">
