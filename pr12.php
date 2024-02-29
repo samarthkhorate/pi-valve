@@ -43,7 +43,7 @@
 
   <div class="container">
     <div class="product-container">
-        <h1 class="product-title" style="font-size: 2rem;">Gauge Cock</h1 > 
+        <h1 class="product-title" style="font-size: 2rem;">PTFE Qrc</h1 > 
       <img src="assets/img/gallery/pr12.JPG" alt="Product Image" class="product-image" style="width: 80%; height: auto;">
      
       <p class="product-description" style="align-self: baseline;">
