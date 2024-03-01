@@ -207,6 +207,8 @@ We prioritize client satisfaction by delivering high-quality products that meet 
                                       </div>
                               </div>
                       </div>
+
+                
                       <!-- Single Product -->
                       <div class="col-md-6 col-lg-4 col-xl-3">
                               <div id="product-2" class="single-product">
@@ -417,27 +419,27 @@ We prioritize client satisfaction by delivering high-quality products that meet 
       }
       
       .section-products #product-1 .part-1::before {
-          background: url("assets/img/gallery/pr1.jpg") no-repeat center;
+          background: url("/assets/img/gallery/pr1.JPG") no-repeat center;
           background-size: cover;
               transition: all 0.3s;
       }  
       
       .section-products #product-2 .part-1::before {
-          background: url("assets/img/gallery/pr2.jpg") no-repeat center;
+          background: url("assets/img/gallery/pr2.JPG") no-repeat center;
           background-size: cover;
       }
       
       .section-products #product-3 .part-1::before {
-          background: url("assets/img/gallery/pr3.jpg") no-repeat center;
+          background: url("assets/img/gallery/pr3.JPG") no-repeat center;
           background-size: cover;
       }
       
       .section-products #product-4 .part-1::before {
-          background: url("assets/img/gallery/pr4.jpg") no-repeat center;
+          background: url("assets/img/gallery/pr4.JPG") no-repeat center;
           background-size: cover;
       }
       .section-products #product-5 .part-1::before {
-          background: url("assets/img/gallery/pr5.jpg") no-repeat center;
+          background: url("assets/img/gallery/pr5.JPG") no-repeat center;
           background-size: cover;
       }
       .section-products #product-6 .part-1::before {
@@ -445,7 +447,7 @@ We prioritize client satisfaction by delivering high-quality products that meet 
           background-size: cover;
       }
       .section-products #product-7 .part-1::before {
-          background: url("assets/img/gallery/pr7.jpg") no-repeat center;
+          background: url("assets/img/gallery/pr7.JPG") no-repeat center;
           background-size: cover;
       }
       .section-products #product-8 .part-1::before {
@@ -461,11 +463,11 @@ We prioritize client satisfaction by delivering high-quality products that meet 
           background-size: cover;
       }
       .section-products #product-11 .part-1::before {
-          background: url("assets/img/gallery/pr11.jpg") no-repeat center;
+          background: url("assets/img/gallery/pr11.JPG") no-repeat center;
           background-size: cover;
       }
       .section-products #product-12 .part-1::before {
-          background: url("assets/img/gallery/pr12.jpg") no-repeat center;
+          background: url("assets/img/gallery/pr12.JPG") no-repeat center;
           background-size: cover;
       }
       
