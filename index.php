@@ -1135,92 +1135,6 @@ h2 {
       </div>
   </div>
 </div>
-<?php
-
-if(isset($_POST['btn_submit'])){
-
-  $servername = "65.109.122.227";
-$username = "pivalvei_user";
-$password = "Soham@#$11223355";
-$database = "pivalvei_db";
-
-// Create connection
-$con = new mysqli($servername, $username, $password, $database);
-date_default_timezone_set('Asia/Kolkata');
-
-// Get current timestamp in the specified format
-$current_timestamp = date('d-m-Y h:i:s A');
-
-
-  //echo '<pre>';
-  //print_r($_POST);
- // echo '</pre>';
-  extract($_POST);
-  $sql = "INSERT INTO `tbl_contact` (`id`, `name`, `email_id`, `mob_no`, `msg`, `time_stamp`) VALUES (NULL, '$a1', '$a2', '$a3', '$a4', '$current_timestamp')";
-  if(mysqli_query($con,$sql)){
-//email start 
-
-
-
-try{
-require 'PHPMailer/src/Exception.php';
-require 'PHPMailer/src/PHPMailer.php';
-require 'PHPMailer/src/SMTP.php';
-
-// Create PHPMailer instance
-$mail = new PHPMailer\PHPMailer\PHPMailer();
- //Server settings
-//    $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      //Enable verbose debug output
-    $mail->isSMTP();                                            //Send using SMTP
-    $mail->Host       = 'smtp.gmail.com';                     //Set the SMTP server to send through
-    $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-    $mail->Username   = 'system.techking@gmail.com';                     //SMTP username
-    $mail->Password   = 'wdpiyszleioausbk';                               //SMTP password
-  //  $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
-    $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
-   
-   
-    // Suppress debugging information
-    $mail->SMTPDebug = 0;
-    $mail->Debugoutput = 'html';
-   
-   
-    //Recipients
-    $mail->setFrom('system.techking@gmail.com', 'Tech King Solutions India');
-    $mail->addAddress($a2,$a1);     //Add a recipient
-    //$mail->addAddress('info@techking.in.net', 'Tech King Solutions India');     //Add a recipient
-    //$mail->addAddress('ellen@example.com');               //Name is optional
-    $mail->addReplyTo('info@techking.in.net', 'Tech King Solutions India');
-   // $mail->addCC('abhijit.abhang.abhang@gmail.com');
-    //$mail->addBCC('bcc@example.com');
-//$path_cert='../../img/digital_certificate/'.$digital_certificate_file_name;
-    //Attachments
-   // $mail->addAttachment($path_cert);         //Add attachments
-  //  $mail->addAttachment('../img/trainee_profile_pic/6546be678af80.png');    //Optional name
-
-    //Content
-    $mail->isHTML(true);                                  //Set email format to HTML
-    
-    $mail->Subject = 'Test Email';
-$mail->Body = "This is a test email sent using PHPMailer.\n";
-$mail->Body .= "Name: $a1\nEmail: $a2\nPhone No: $a3\nSender's Email: $a4";
-   // $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
-
-    $mail->send();
- //      echo 'Email sent successfully!';
-
-    }catch (Exception $e) {
-    echo 'Error sending email: ', $mail->ErrorInfo;
-}
-
-    //email ends
-
-  }else{
-   // echo "data sent fail";
-  }
-}
-
-?>
 <style>
   .my-form {
       color: #305896;
@@ -1530,3 +1444,90 @@ $mail->Body .= "Name: $a1\nEmail: $a2\nPhone No: $a3\nSender's Email: $a4";
     </script>
   </body>
 </html>
+
+<?php
+
+if(isset($_POST['btn_submit'])){
+
+  $servername = "65.109.122.227";
+$username = "pivalvei_user";
+$password = "Soham@#$11223355";
+$database = "pivalvei_db";
+
+// Create connection
+$con = new mysqli($servername, $username, $password, $database);
+date_default_timezone_set('Asia/Kolkata');
+
+// Get current timestamp in the specified format
+$current_timestamp = date('d-m-Y h:i:s A');
+
+
+  //echo '<pre>';
+  //print_r($_POST);
+ // echo '</pre>';
+  extract($_POST);
+  $sql = "INSERT INTO `tbl_contact` (`id`, `name`, `email_id`, `mob_no`, `msg`, `time_stamp`) VALUES (NULL, '$a1', '$a2', '$a3', '$a4', '$current_timestamp')";
+  if(mysqli_query($con,$sql)){
+//email start 
+
+
+
+try{
+require 'PHPMailer/src/Exception.php';
+require 'PHPMailer/src/PHPMailer.php';
+require 'PHPMailer/src/SMTP.php';
+
+// Create PHPMailer instance
+$mail = new PHPMailer\PHPMailer\PHPMailer();
+ //Server settings
+//    $mail->SMTPDebug = SMTP::DEBUG_SERVER;                      //Enable verbose debug output
+    $mail->isSMTP();                                            //Send using SMTP
+    $mail->Host       = 'smtp.gmail.com';                     //Set the SMTP server to send through
+    $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
+    $mail->Username   = 'system.techking@gmail.com';                     //SMTP username
+    $mail->Password   = 'wdpiyszleioausbk';                               //SMTP password
+  //  $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
+    $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
+   
+   
+    // Suppress debugging information
+    $mail->SMTPDebug = 0;
+    $mail->Debugoutput = 'html';
+   
+   
+    //Recipients
+    $mail->setFrom('system.techking@gmail.com', 'Tech King Solutions India');
+    $mail->addAddress($a2,$a1);     //Add a recipient
+    //$mail->addAddress('info@techking.in.net', 'Tech King Solutions India');     //Add a recipient
+    //$mail->addAddress('ellen@example.com');               //Name is optional
+    $mail->addReplyTo('info@techking.in.net', 'Tech King Solutions India');
+   // $mail->addCC('abhijit.abhang.abhang@gmail.com');
+    //$mail->addBCC('bcc@example.com');
+//$path_cert='../../img/digital_certificate/'.$digital_certificate_file_name;
+    //Attachments
+   // $mail->addAttachment($path_cert);         //Add attachments
+  //  $mail->addAttachment('../img/trainee_profile_pic/6546be678af80.png');    //Optional name
+
+    //Content
+    $mail->isHTML(true);                                  //Set email format to HTML
+    
+    $mail->Subject = 'Test Email';
+$mail->Body = "This is a test email sent using PHPMailer.\n";
+$mail->Body .= "Name: $a1\nEmail: $a2\nPhone No: $a3\nSender's Email: $a4";
+   // $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
+
+    $mail->send();
+ //      echo 'Email sent successfully!';
+
+    }catch (Exception $e) {
+    echo 'Error sending email: ', $mail->ErrorInfo;
+}
+
+    //email ends
+
+  }else{
+   // echo "data sent fail";
+  }
+}
+
+?>
