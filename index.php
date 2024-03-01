@@ -1150,9 +1150,9 @@ date_default_timezone_set('Asia/Kolkata');
 $current_timestamp = date('d-m-Y h:i:s A');
 
 
-  echo '<pre>';
-  print_r($_POST);
-  echo '</pre>';
+  //echo '<pre>';
+  //print_r($_POST);
+ // echo '</pre>';
   extract($_POST);
   $sql = "INSERT INTO `tbl_contact` (`id`, `name`, `email_id`, `mob_no`, `msg`, `time_stamp`) VALUES (NULL, '$a1', '$a2', '$a3', '$a4', '$current_timestamp')";
   if(mysqli_query($con,$sql)){
@@ -1205,7 +1205,7 @@ $mail->Body .= "Name: $a1\nEmail: $a2\nPhone No: $a3\nSender's Email: $a4";
    // $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
 
     $mail->send();
-       echo 'Email sent successfully!';
+ //      echo 'Email sent successfully!';
 
     }catch (Exception $e) {
     echo 'Error sending email: ', $mail->ErrorInfo;
@@ -1214,7 +1214,7 @@ $mail->Body .= "Name: $a1\nEmail: $a2\nPhone No: $a3\nSender's Email: $a4";
     //email ends
 
   }else{
-    echo "data sent fail";
+   // echo "data sent fail";
   }
 }
 
