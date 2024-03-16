@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>Phadtare Industries</title>
+    <title>Phadtare Industries- Manufacturer of Quick Release Couplings, Needle Valves,Ball Valves,Air Headers,Tube Fittings,and other Valves in Mumbai, Pune, Satara.</title>
     <meta name="description" content />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link
@@ -1281,7 +1281,7 @@ $mail->Body .= "Name: $a1\nEmail: $a2\nPhone No: $a3\nSender's Email: $a4";
                         </div>
                         <div class="d-flex mb-2">
                             <i class="bi bi-telephone text-primary me-2"></i>
-                            <p class="mb-0">+91 9422038042<br>     <br>   </p>
+                            <p class="mb-0">+91 9371765111<br>     <br>   </p>
                         </div>
                         <div class="section-title section-title-sm position-relative pb-3 mb-4">
                           <h3 class="text-light mb-0">FACTORY LOCATION</h3>
@@ -1296,7 +1296,7 @@ $mail->Body .= "Name: $a1\nEmail: $a2\nPhone No: $a3\nSender's Email: $a4";
                       </div>
                       <div class="d-flex mb-2">
                           <i class="bi bi-telephone text-primary me-2"></i>
-                          <p class="mb-0">+91 8087212192</p>
+                          <p class="mb-0">+91 9422038042</p>
                       </div>
                         <div class="d-flex mt-4">
                             <a class="btn btn-primary btn-square me-2" href="#"><i class="fab fa-twitter fw-normal"></i></a>
@@ -1328,12 +1328,12 @@ $mail->Body .= "Name: $a1\nEmail: $a2\nPhone No: $a3\nSender's Email: $a4";
                           <h3 style="color: #f7f7f7;">Santosh Phadtare </h3>
                           <div class="d-flex mb-2">
                             <i class="bi bi-telephone text-primary me-2"></i>
-                            <p class="mb-0">+91 9422038042 <br>+91 8087212192</p>
+                            <p class="mb-0">+91 9371765111 <br>+91 9422038042</p>
                         </div>
                         <h3 style="color: #f7f7f7;">Sunil Phadtare </h3>
                         <div class="d-flex mb-2">
                           <i class="bi bi-telephone text-primary me-2"></i>
-                          <p class="mb-0">+91 9423867942 <br>+91 8482803085 <br>   <br> </p>
+                          <p class="mb-0">+91 9765993111 <br>+91 9423867942 <br>   <br> </p>
                       </div>
                       <h3 style="color: #f7f7f7;">Our Mail ID</h3>
                       <div class="d-flex mb-2">
