@@ -1174,7 +1174,7 @@ h2 {
                     <form action="">
                         <div class="input-group">
                             <input type="text" class="form-control border-white p-3" placeholder="Join Us On Whatsapp">
-                            <button class="btn btn-dark"href="https://wa.me/message/K66RLEV6ZVB7H1">Join </button>
+                            <button class="btn btn-dark"href="https://wa.me/qr/22NQDNUC5UNDL1">Join </button>
                         </div>
                     </form>
                 </div>
@@ -1187,7 +1187,7 @@ h2 {
                         </div>
                         <div class="d-flex mb-2">
                             <i class="bi bi-geo-alt text-primary me-2"></i>
-                            <p class="mb-0">17/699,utsav Co-Op.Hsg Society,D.N.Nagar,Varosa Road,Andheri(w),400053</p>
+                            <p class="mb-0">17/699,utsav Co-Op.Hsg Society,D.N.Nagar,Varosa Road,Andheri(w),Mumbai-400053</p>
                         </div>
                         <div class="d-flex mb-2">
                             <i class="bi bi-envelope-open text-primary me-2"></i>
