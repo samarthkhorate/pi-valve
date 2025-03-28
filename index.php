@@ -1187,7 +1187,7 @@ h2 {
                         </div>
                         <div class="d-flex mb-2">
                             <i class="bi bi-geo-alt text-primary me-2"></i>
-                            <p class="mb-0">17/699,utsav Co-Op.Hsg Society,D.N.Nagar,Varosa Road,Andheri(w),Mumbai-400053</p>
+                            <p class="mb-0">17/699,utsav Co-Op.Hsg Society,D.N.Nagar,Versova Road,Andheri(w),Mumbai-400053</p>
                         </div>
                         <div class="d-flex mb-2">
                             <i class="bi bi-envelope-open text-primary me-2"></i>
@@ -1195,7 +1195,7 @@ h2 {
                         </div>
                         <div class="d-flex mb-2">
                             <i class="bi bi-telephone text-primary me-2"></i>
-                            <p class="mb-0">+91 9371765111<br>     <br>   </p>
+                            <p class="mb-0">+91 9422038042<br>     <br>   </p>
                         </div>
                         <div class="section-title section-title-sm position-relative pb-3 mb-4">
                           <h3 class="text-light mb-0">FACTORY LOCATION</h3>
@@ -1239,20 +1239,21 @@ h2 {
                           <h3 class="text-light mb-0"style="font-size:20px">Contact Us</h3>
                       </div>
                       <div class="link-animated d-flex flex-column justify-content-start">
-                          <h3 style="color: #f7f7f7;">Santosh Phadtare </h3>
-                          <div class="d-flex mb-2">
-                            <i class="bi bi-telephone text-primary me-2"></i>
-                            <p class="mb-0">+91 9371765111 <br>+91 9422038042</p>
-                        </div>
-                        <h3 style="color: #f7f7f7;">Sunil Phadtare </h3>
+                      <h3 style="color: #f7f7f7;">Sunil Phadtare </h3>
                         <div class="d-flex mb-2">
                           <i class="bi bi-telephone text-primary me-2"></i>
-                          <p class="mb-0">+91 9765993111 <br>+91 9423867942 <br>   <br> </p>
+                          <p class="mb-0">+91 9765993111 <br>+91 9422038042<br>   <br> </p>
+                      </div>
+                          
+                        <h3 style="color: #f7f7f7;">Soham Phadtare </h3>
+                        <div class="d-flex mb-2">
+                          <i class="bi bi-telephone text-primary me-2"></i>
+                          <p class="mb-0">+91 7796599111 <br>+91 9422038042 <br>   <br> </p>
                       </div>
                       <h3 style="color: #f7f7f7;">Our Mail ID</h3>
                       <div class="d-flex mb-2">
                         <i class="bi bi-envelope-open text-primary me-2"></i>
-                        <p class="mb-0">perfect_valve@rediffmail.com <br>santosh.purchase@pivalve.in <br>sunil.sales@pivalve.in <br>soham@pivalve.in </p>
+                        <p class="mb-0">perfect_valve@rediffmail.com <br>Soham.Phadtare@pivalves.com <br>Sunil.Phadtare@pivalves.com <br>Shivam.Phadtare@pivalves.com </p>
                     </div>
                       </div>
             
